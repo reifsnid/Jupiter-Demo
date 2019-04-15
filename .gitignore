@@ -1,0 +1,31 @@
+#File Types
+*.pdf
+*.html
+*.css
+
+#Outputs
+
+#ProductionMaps
+ProductionMaps/out/*
+ProductionMaps/pdf_out/*
+ProductionMaps/multiple_html_out/*
+
+#General Output
+**/out/*
+MetricReports/debug.log
+
+
+#Temp files
+**/temp/*
+
+#Output image files under Maps folder
+**/out/*
+
+#Exclusions
+!MetricReports/*
+
+#DITA OT Log Files
+dita-ot-log.txt
+
+#Oxygen Merge Backups
+*.orig

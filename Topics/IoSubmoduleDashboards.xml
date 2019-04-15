@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="IoSubmoduleDashboards">
+    <title>Dashboards</title>
+    <shortdesc> Visualize your complete publishing system from end-to-end.</shortdesc>
+    <conbody>
+        <p>The following five dashboards are displayed in the Io submodule:</p>
+        <table frame="all" id="table_ab2_q5z_jhb">
+            <tgroup cols="2">
+                <colspec colname="c1" colnum="1" colwidth="1*"/>
+                <colspec colname="c2" colnum="2" colwidth="3*"/>
+                <thead>
+                    <row>
+                        <entry>Dasboard</entry>
+                        <entry>Description</entry>
+                    </row>
+                </thead>
+                <tbody>
+                    <row>
+                        <entry>Launch</entry>
+                        <entry>Displays the initial mechanisms of the publishing platform</entry>
+                    </row>
+                    <row>
+                        <entry>Separation</entry>
+                        <entry>Displays the splitting of files into respective components</entry>
+                    </row>
+                    <row>
+                        <entry>Transit</entry>
+                        <entry>Displays the rejoining of files into the correct format</entry>
+                    </row>
+                    <row>
+                        <entry>Orbit</entry>
+                        <entry>Displays the round-trip cycle of publishing</entry>
+                    </row>
+                    <row>
+                        <entry>Return</entry>
+                        <entry>Displays the re-entry of the files and the finished result</entry>
+                    </row>
+                </tbody>
+            </tgroup>
+        </table>
+    </conbody>
+</concept>

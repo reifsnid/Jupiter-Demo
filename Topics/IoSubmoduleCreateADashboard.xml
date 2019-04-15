@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="IoSubmoduleCreateADashboard">
+    <title>Create a Custom Dashboard</title>
+    <shortdesc>Create a new dashboard to view access custom data specific to your needs.</shortdesc>
+    <taskbody>
+        <context>
+            <p>When the default dashboard do not provide the data you need, create a custom data to
+                obtain and report on the specific data you need.</p>
+        </context>
+        <steps>
+            <step
+                conref="IoSubmoduleAccessDashboards.xml#IoSubmoduleAccessDashboards/AccessDashboards_step">
+                <cmd/>
+            </step>
+            <step>
+                <cmd>Under the <wintitle>Custom</wintitle> panel, click <uicontrol>Create Custom
+                        Dashboard</uicontrol>.</cmd>
+                <stepresult>The <wintitle>Create Custom Dashboard</wintitle> page
+                    displays.</stepresult>
+            </step>
+            <step>
+                <cmd>From the <wintitle>Attributes</wintitle> panel, click and drag the applicable
+                    attributes you want to use to build the custom dashboard to the dashboard
+                    creator.</cmd>
+            </step>
+            <step>
+                <cmd>Click <uicontrol>Create</uicontrol>.</cmd>
+            </step>
+        </steps>
+        <result id="result_p1z_qf5_khb">Your custom dashboard displays on the
+                <wintitle>Dashboards</wintitle> page. </result>
+    </taskbody>
+</task>

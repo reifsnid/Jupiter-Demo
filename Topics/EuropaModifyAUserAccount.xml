@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="EuropaModifyAUserAccount">
+    <title>Modify a User Account</title>
+    <shortdesc>Change the properties of a user account in the Europa submodule.</shortdesc>
+    <taskbody>
+        <steps>
+            <step>
+                <cmd>From the Jupiter homescreen, click <uicontrol>Accounts</uicontrol>.</cmd>
+                <stepresult>The <wintitle>User Accounts</wintitle> page displays.</stepresult>
+            </step>
+            <step>
+                <cmd>Under the list of user accounts, locate and select the appropriate user account
+                    you want to modify.</cmd>
+            </step>
+            <step>
+                <cmd>Click <uicontrol>Change</uicontrol>.</cmd>
+                <stepresult>The <wintitle>Modify Account</wintitle> page displays.</stepresult>
+            </step>
+            <step>
+                <cmd>Edit all properties you want to modify.</cmd>
+            </step>
+            <step>
+                <cmd>Click <uicontrol>Save</uicontrol>.</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="EuropaSubmodule">
+    <title>Europa Submodule</title>
+    <shortdesc><ph conref="Introduction.xml#Introduction/Europa-description-ph"/></shortdesc>
+    <conbody>
+        <p>The Europa submodule lets you manage the users that have access to the Jupiter
+            application through a single sign-on (SSO) portal.</p>
+    </conbody>
+</concept>

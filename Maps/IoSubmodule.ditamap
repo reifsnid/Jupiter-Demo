@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map>
+    <title>Io Submodule</title>
+    <topicref href="../Topics/IoSubmoduleHome.xml">
+        <topicref href="../Topics/IoSubmoduleDashboards.xml">
+            <topicref href="../Topics/IoSubmoduleAccessDashboards.xml" keys="dashboards-access"/>
+            <topicref href="../Topics/IoSubmoduleGenerateADashboardReport.xml"
+                keys="dashboards-generate-report"/>
+            <topicref href="../Topics/IoSubmoduleCreateADashboard.xml"/>
+        </topicref>
+    </topicref>
+</map>
