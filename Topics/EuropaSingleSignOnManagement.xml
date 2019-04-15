@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="EuropaSingleSignOnManagement">
+    <title>Single Sign-On Management</title>
+    <shortdesc>Lets your users sign-in to the various submodules in the Jupiter
+        application.</shortdesc>
+    <conbody>
+        <p>Single sign-on mangement consists of a unified portal that provides the following
+            benefits:</p>
+        <ul id="ul_x5f_tgv_khb">
+            <li>Easy access</li>
+            <li>Add, modify, or remove user accounts</li>
+        </ul>
+    </conbody>
+</concept>

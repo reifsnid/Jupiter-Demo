@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="IoSubmoduleAccessDashboards">
+    <title>Access the Dashboards</title>
+    <shortdesc>View the dashboards before generating reports.</shortdesc>
+    <taskbody>
+        <steps>
+            <step>
+                <cmd>From the Jupiter homescreen, click <uicontrol>Explore</uicontrol>.</cmd>
+                <stepresult>The <wintitle>Exploration</wintitle> page displays.</stepresult>
+            </step>
+            <step id="AccessDashboards_step">
+                <cmd>From <menucascade>
+                        <uicontrol>Launch</uicontrol>
+                        <uicontrol>Launch It!</uicontrol>
+                    </menucascade>, click <uicontrol>Dashboards</uicontrol>.</cmd>
+            </step>
+        </steps>
+        <result id="result_tfb_2wz_jhb">The <wintitle>Dashboards</wintitle> display.</result>
+        <postreq id="postreq_wml_pyz_jhb"><xref keyref="dashboards-generate-report"/>.</postreq>
+    </taskbody>
+</task>

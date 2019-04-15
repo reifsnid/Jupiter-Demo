@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="Introduction">
+    <title>Introduction</title>
+    <shortdesc>Jupiter is a unified publishing platform designed to give you complete control over
+        every aspect of the publishing process.</shortdesc>
+    <conbody>
+        <p>Jupiter consists of the following submodules:</p>
+        <table frame="all" id="table_tkw_mtz_jhb">
+            <title>Jupiter Submodules</title>
+            <tgroup cols="2">
+                <colspec colname="c1" colnum="1" colwidth="1*"/>
+                <colspec colname="c2" colnum="2" colwidth="3*"/>
+                <thead>
+                    <row>
+                        <entry>Submodule</entry>
+                        <entry>Description</entry>
+                    </row>
+                </thead>
+                <tbody>
+                    <row>
+                        <entry>Io</entry>
+                        <entry><ph id="Io-description-ph">Provides dashboard reports on the
+                                publishing effeciceny.</ph></entry>
+                    </row>
+                    <row>
+                        <entry>Europa</entry>
+                        <entry><ph id="Europa-description-ph">Provides single sign-on access to the
+                                other submodules.</ph></entry>
+                    </row>
+                </tbody>
+            </tgroup>
+        </table>
+    </conbody>
+</concept>

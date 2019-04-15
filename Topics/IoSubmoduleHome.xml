@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="IoSubmoduleHome">
+    <title>Io Submodule</title>
+    <shortdesc><ph conref="Introduction.xml#Introduction/Io-description-ph"/></shortdesc>
+    <conbody>
+        <p>The Io submodule consists of five different dashboards that let you visualize your
+            complete publishing system from end-to-end.</p>
+    </conbody>
+</concept>

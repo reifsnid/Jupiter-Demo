@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="IoSubmoduleGenerateADashboardReport">
+    <title>Generate a Dashboard Report</title>
+    <shortdesc>Reports help you make conclusions on your publishing process.</shortdesc>
+    <taskbody>
+        <context>
+            <p>Each report is a collection of data that can be used to form an objective, and
+                complete picture of the efficiency of your overall publishing process.</p>
+        </context>
+        <steps>
+            <step>
+                <cmd><xref keyref="dashboards-access"/>.</cmd>
+            </step>
+            <step>
+                <cmd>Click <uicontrol>Generate a Report</uicontrol>.</cmd>
+                <stepresult>The <wintitle>Generate Report</wintitle> dialog displays.</stepresult>
+            </step>
+            <step>
+                <cmd>Under the <uicontrol>Report Name</uicontrol> field, enter a user friendly name
+                    for the report.</cmd>
+            </step>
+            <step>
+                <cmd>From the <uicontrol>Dashboard</uicontrol> drop-down, select the appropriate
+                    dashboard for which you want to generate the report.</cmd>
+            </step>
+            <step>
+                <cmd>From the <uicontrol>Size</uicontrol> drop-down, select the maximum amount of
+                    time you want to spend generating the report.</cmd>
+            </step>
+            <step>
+                <cmd>Click <uicontrol>Generate</uicontrol>.</cmd>
+            </step>
+        </steps>
+        <result id="result_g4p_syz_jhb">When Jupiter finishes generating the report, a
+                <wintitle>Save As</wintitle> dialog displays.</result>
+    </taskbody>
+</task>

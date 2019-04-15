@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map>
+    <title>Europa Submodule</title>
+    <topicref href="../Topics/EuropaSubmodule.xml">
+        <topicref href="../Topics/EuropaSingleSignOnManagement.xml"/>
+        <topicref href="../Topics/EuropaModifyAUserAccount.xml"/>
+    </topicref>
+</map>
