@@ -15,6 +15,9 @@
                         <uicontrol>Launch It!</uicontrol>
                     </menucascade>, click <uicontrol>Dashboards</uicontrol>.</cmd>
             </step>
+            <step>
+                <cmd>Click on Admin Panel.</cmd>
+            </step>
         </steps>
         <result id="result_tfb_2wz_jhb">The <wintitle>Dashboards</wintitle> display.</result>
         <postreq id="postreq_wml_pyz_jhb"><xref keyref="dashboards-generate-report"/>.</postreq>

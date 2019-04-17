@@ -2,9 +2,10 @@
 <!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
 <concept id="Introduction">
     <title>Introduction</title>
-    <shortdesc>Jupiter is a unified publishing platform designed to give you complete control over
-        every aspect of the publishing process.</shortdesc>
+    <shortdesc>Jupiter is a unified moderating platform designed to give you complete control over
+        every aspect of the moderating process.</shortdesc>
     <conbody>
+        <image href="../Graphics/landscape-1489610227-jupiterjerk-1.jpg" id="image_wkg_tfb_lhb"/>
         <p>Jupiter consists of the following submodules:</p>
         <table frame="all" id="table_tkw_mtz_jhb">
             <title>Jupiter Submodules</title>
@@ -27,6 +28,10 @@
                         <entry>Europa</entry>
                         <entry><ph id="Europa-description-ph">Provides single sign-on access to the
                                 other submodules.</ph></entry>
+                    </row>
+                    <row>
+                        <entry>Admin Panel</entry>
+                        <entry>The admin is really cool!</entry>
                     </row>
                 </tbody>
             </tgroup>
