@@ -2,10 +2,10 @@
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
 <task id="IoSubmoduleCreateADashboard">
     <title>Create a Custom Dashboard</title>
-    <shortdesc>Create a new dashboard to view access custom data specific to your needs.</shortdesc>
+    <shortdesc>View custom data specific to your needs.</shortdesc>
     <taskbody>
         <context>
-            <p>When the default dashboard do not provide the data you need, create a custom data to
+            <p>When the default dashboards do not provide the data you need, create a custom data to
                 obtain and report on the specific data you need.</p>
         </context>
         <steps>
