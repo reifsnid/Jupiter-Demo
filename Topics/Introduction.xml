@@ -28,6 +28,10 @@
                         <entry><ph id="Europa-description-ph">Provides single sign-on access to the
                                 other submodules.</ph></entry>
                     </row>
+                    <row>
+                        <entry>Admin Panel</entry>
+                        <entry>The admin is really cool!</entry>
+                    </row>
                 </tbody>
             </tgroup>
         </table>
